@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/all/target/
+/core/target/
+/dispatcher/target/
+/it.tests/target/
+/ui.apps/target/
+/ui.apps.structure/target/
+/ui.config/target/
+/ui.content/target/
+/ui.frontend/node_modules/
+/ui.frontend/dist/
+/ui.frontend/target/
+/ui.apps/target/
+/aem-training.iml
+/archetype.properties
